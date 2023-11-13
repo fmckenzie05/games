@@ -24,18 +24,16 @@ Installation
 Ensure you have Python 3 installed on your system. You can download it from Python's official website.
 
 To install the required freegames library, use pip:
+Python
+''' pip install freegames '''
 
-
-
-'''bash pip install freegames'''
-Save to grepper
 Running the Game
 To play the game, simply run the script in your Python environment:
 
-bash
-Copy code
-'''python snake_game.py'''
-Save to grepper
+
+
+''' python snake_game.py '''
+S
 Replace snake_game.py with the path to the script file if necessary.
 
 Customization
