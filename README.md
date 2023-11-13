@@ -36,12 +36,10 @@ python snake_game.py
 
 Replace snake_game.py with the path to the script file if necessary.
 
-
-
- Game #2
-
 Customization
 Speed Adjustment: To change the speed of the snake, modify the value in the ontimer(move, 100) call in the script. Lower values make the snake move faster, higher values make it slower.
 License
+Game #2
+Coming soon!
 This project is open source and available under the MIT License
 
