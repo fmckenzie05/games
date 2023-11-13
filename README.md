@@ -24,8 +24,8 @@ Installation
 Ensure you have Python 3 installed on your system. You can download it from Python's official website.
 
 To install the required freegames library, use pip:
-Python
-''' 
+
+''' Python
 pip install freegames
 
 '''
@@ -35,8 +35,8 @@ To play the game, simply run the script in your Python environment:
 
 
 
-'''
-python snake_game.py 
+''' python
+ snake_game.py 
 '''
 
 Replace snake_game.py with the path to the script file if necessary.
