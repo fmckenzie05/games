@@ -33,7 +33,7 @@ To play the game, simply run the script in your Python environment:
 
 
 ``` python
- snake_game.py 
+python snake_game.py 
 ```
 
 Replace snake_game.py with the path to the script file if necessary.
