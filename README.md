@@ -1,4 +1,5 @@
 # games
+Game #1  Snake
 Classic Snake Game with Python Turtle
 This Python script is a modified version of the classic arcade game "Snake", developed using the Turtle graphics library. It features the basic gameplay of Snake, where the player controls a snake to eat food while avoiding collisions with itself or the edges of the game area.
 
@@ -34,6 +35,10 @@ python snake_game.py
 ```
 
 Replace snake_game.py with the path to the script file if necessary.
+
+
+
+ Game #2
 
 Customization
 Speed Adjustment: To change the speed of the snake, modify the value in the ontimer(move, 100) call in the script. Lower values make the snake move faster, higher values make it slower.
