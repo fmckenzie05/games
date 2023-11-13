@@ -25,7 +25,8 @@ Ensure you have Python 3 installed on your system. You can download it from Pyth
 
 To install the required freegames library, use pip:
 
-``` Python pip install freegames ```
+``` Python 
+pip install freegames ```
 
 Running the Game
 To play the game, simply run the script in your Python environment:
