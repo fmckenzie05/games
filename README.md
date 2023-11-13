@@ -27,12 +27,8 @@ To install the required freegames library, use pip:
 
 ``` Python 
 pip install freegames ```
-
 Running the Game
 To play the game, simply run the script in your Python environment:
-
-
-
 ``` python
 python snake_game.py 
 ```
